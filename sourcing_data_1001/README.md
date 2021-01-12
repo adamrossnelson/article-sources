@@ -1,7 +1,7 @@
 # Introduction
 
 This folder supports a tutorial article entitled: [_Sourcing Federal Data: Higher Education Data: 
-A step-by-step guide to building three-year data panel from federal higher education data sources_](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
+A step-by-step guide to building three-year data panel from federal higher education data sources_](https://towardsdatascience.com/how-to-source-federal-data-higher-education-data-675f5edb9813)
 
 The accompanying notebook provides the above tutorial's code in a ready-to-run format.
 

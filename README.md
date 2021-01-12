@@ -6,4 +6,4 @@ A repository to support articles published at Medium.com and other similar platf
 
 Nelson, A. (2021) [_Sourcing Federal Data: Higher Education Data:
 A step-by-step guide to building three-year data panel from federal higher education data sources_]
-(https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links). Towards Data Science. Medium.com.
+(https://towardsdatascience.com/how-to-source-federal-data-higher-education-data-675f5edb9813). Towards Data Science. Medium.com.
